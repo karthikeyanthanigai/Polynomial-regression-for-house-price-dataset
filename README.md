@@ -4,6 +4,7 @@ In this repository we will see what is this housing price prediction problem par
 To run the code follow the below steps:
 
 ![Image description](https://img.etimg.com/thumb/msid-72992547,width-300,imgsize-447796,resizemode-4/housing-price-getty.jpg)
+
 1.Install python(3.6+) and need packages.
 ```
 pip install numpy
